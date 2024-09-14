@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Matrix_programs" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Matrix_programs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Matrix_programs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="add_matrix.cpp" />
+		<Unit filename="check_equal.cpp" />
+		<Unit filename="interchange_coloumn.cpp" />
+		<Unit filename="interchange_rows.cpp" />
+		<Unit filename="join_p.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="matrix_one.cpp" />
+		<Unit filename="multiply_two_matrix.cpp" />
+		<Unit filename="normal_trace.cpp" />
+		<Unit filename="print_boundry.cpp" />
+		<Unit filename="sum_of_diagonals.cpp" />
+		<Unit filename="transpose_of_matrix.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

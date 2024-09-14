@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1726340711 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\main.cpp
+	<iostream>
+	"join_p.h"
+
+1726340711 c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\join_p.h
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\matrix_one.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\add_matrix.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\check_equal.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\sum_of_diagonals.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\transpose_of_matrix.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\print_boundry.cpp
+	<iostream>
+	"join_p.h"
+
+1726309173 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\normal_trace.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1726333863 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\multiply_two_matrix.cpp
+	<iostream>
+	"join_p.h"
+
+1726340711 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\interchange_rows.cpp
+	<iostream>
+	"join_p.h"
+
+1726335719 source:c:\users\18pan\onedrive\desktop\cpp geeks\matrix_programs\interchange_coloumn.cpp
+	<iostream>
+	"join_p.h"
+
